@@ -1,0 +1,65 @@
+[
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1954,
+        "read": true
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "year": 1813,
+        "read": false
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Southern Gothic",
+        "year": 1960,
+        "read": false
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Tragedy",
+        "year": 1925,
+        "read": true
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "genre": "Magical Realism",
+        "year": 1967,
+        "read": false
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Adventure",
+        "year": 1851,
+        "read": true
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Historical Fiction",
+        "year": 1869,
+        "read": false
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "genre": "Epic Poetry",
+        "year": -800,
+        "read": true
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "genre": "Allegory",
+        "year": 1320,
+        "read": false
+    }
+]
