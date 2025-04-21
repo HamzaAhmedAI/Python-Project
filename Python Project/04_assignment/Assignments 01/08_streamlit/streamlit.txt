@@ -1,0 +1,8 @@
+- No need for front-end coding
+
+- Reactive - your app updates every time a change is made
+
+- Easy integration with Python Libraries Like Pandas, Numpy, and Matplotlib
+
+30-40 
+
